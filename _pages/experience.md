@@ -18,3 +18,4 @@ author_profile: true
   * Conducting doctoral research in computer & data science.
 * **Graduate Teaching Assistant**, Department of Computer & Data Sciences, CWRU
   * Assisting undergraduate and graduate coursework in computer science.
+

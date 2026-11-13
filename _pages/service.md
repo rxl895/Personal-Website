@@ -16,3 +16,4 @@ author_profile: true
 ### University & Departmental Service
 * Department of Computer & Data Sciences, Case Western Reserve University
 * Student mentoring in computing and engineering
+
