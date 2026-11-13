@@ -22,7 +22,7 @@ repository               : "rxl895/Personal-Website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Ritika Lamba"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Case Western Reserve University"
