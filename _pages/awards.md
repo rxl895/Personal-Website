@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-* **Graduate Fellowship / Award**, Case Western Reserve University (2026)
-* **Outstanding Academic Achievement Award**, CWRU (2025)
-* **Merit Scholarship** (2024)
+* **AWS re:Invent Grant**, Amazon Web Services (2025–2026)
+* **Merit Scholarship for M.S.**, Case Western Reserve University (2023–2025)
+* **MEITI Japan Scholar**, Japan (2020–2021)
+
 
