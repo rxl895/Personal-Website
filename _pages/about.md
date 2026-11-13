@@ -15,6 +15,7 @@ My research interests span machine learning, data science, artificial intelligen
 
 ---
 
-### Recent News
-* **[2026]** Continuing doctoral research at Case Western Reserve University.
-* **[2025]** Successfully advanced research milestones in graduate studies.
+### News
+* **[Jan 2026]** Started Ph.D. at Case Western Reserve University.
+* **[Dec 2025]** Completed M.S. at Case Western Reserve University.
+* **[Aug 2023]** Joined M.S. program at Case Western Reserve University.
