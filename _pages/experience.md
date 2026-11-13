@@ -17,10 +17,10 @@ author_profile: true
 
 ## Research & Professional Experience
 
-| Role | Organization | Type | Period |
-|------|-------------|------|--------|
-| **Graduate Research Assistant** | Case Western Reserve University | Full-time | Jan 2026 – Present |
-| **Software Developer** | Volkswagen Group Technology Solutions India | Full-time | Dec 2021 – May 2023 |
-| **Associate Software Analyst Trainee** | CloudMoyo | Apprenticeship | Jan 2020 – Dec 2021 |
-| **Subject Matter Expert** | Chegg India | Freelance | Jan 2020 – Aug 2023 |
+| Role | Organization | Type | Period | Location |
+|------|-------------|------|--------|----------|
+| **Graduate Research Assistant** | Case Western Reserve University | Full-time | Jan 2026 – Present | Cleveland, OH |
+| **Software Developer** | Volkswagen Group Technology Solutions India | Full-time | Dec 2021 – May 2023 | Hybrid |
+| **Associate Software Analyst Trainee** | CloudMoyo | Apprenticeship | Jan 2020 – Dec 2021 | Pune, India · Remote |
+| **Subject Matter Expert** | Chegg India | Freelance | Jan 2020 – Aug 2023 | Remote |
 
