@@ -36,3 +36,9 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Hide follow links and powered-by text in footer */
+.page__footer-follow,
+.page__footer p:not(.page__footer-copyright) {
+  display: none !important;
+}
