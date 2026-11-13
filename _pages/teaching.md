@@ -9,9 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
 
-### Chandigarh University
-**Bachelor of Engineering in Computer Science**  
-*Major in Artificial Intelligence & Machine Learning*
 

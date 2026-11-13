@@ -9,8 +9,9 @@ author_profile: true
 
 ## Education
 
-* **Ph.D. in Computer Science**, Case Western Reserve University (CWRU), Cleveland, OH (*Present*)
-* **M.S. in Computer Science**, Case Western Reserve University (CWRU)
+* **Ph.D. in Computer & Data Sciences**, Case Western Reserve University, Cleveland, OH *(Jan 2026 – Present)*
+* **M.S. in Computer & Data Sciences**, Case Western Reserve University, Cleveland, OH *(Aug 2023 – Dec 2025)*
+* **B.E. in Computer Science** *(Major: AI & Machine Learning)*, Chandigarh University
 
 ## Research & Professional Experience
 
