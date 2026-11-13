@@ -13,7 +13,7 @@ I am a Ph.D. student in the Department of Computer & Data Sciences at Case Weste
 
 My research interests span machine learning, data science, artificial intelligence, and their real-world applications.
 
-I am advised by [Dr. Jing Ma](https://jma712.github.io/) and [Dr. Peter Hovmand](https://case.edu/medicine/pqhs/about/people/primary-faculty/peter-hovmand) at CWRU.
+I am advised by [Dr. Jing Ma](https://case.edu/engineering/about/faculty-and-staff-directory/jing-ma) and [Dr. Peter Hovmand](https://case.edu/medicine/healthintegration/people/peter-s-hovmand) at CWRU.
 
 ---
 
