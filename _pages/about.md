@@ -23,4 +23,5 @@ My research interests span machine learning, data science, artificial intelligen
 * **[Dec 2025]** Attended AWS re:Invent 2025 in Las Vegas, NV as an attendee.
 * **[Dec 2025]** Received the AWS re:Invent Grant for 2025–2026.
 * **[Dec 2025]** Completed M.S. at Case Western Reserve University.
+* **[Spring 2025]** Awarded student microgrant from Sears think[box] at CWRU.
 * **[Aug 2023]** Joined M.S. program at Case Western Reserve University.
