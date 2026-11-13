@@ -18,7 +18,9 @@ My research interests span machine learning, data science, artificial intelligen
 ---
 
 ### News
+* **[Jul 2026]** Attended the International System Dynamics Conference (ISDC 2026) in Delft, Netherlands.
 * **[Jan 2026]** Started Ph.D. at Case Western Reserve University.
+* **[Dec 2025]** Attended AWS re:Invent 2025 in Las Vegas, NV as an attendee.
 * **[Dec 2025]** Received the AWS re:Invent Grant for 2025–2026.
 * **[Dec 2025]** Completed M.S. at Case Western Reserve University.
 * **[Aug 2023]** Joined M.S. program at Case Western Reserve University.
