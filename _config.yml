@@ -13,8 +13,8 @@ title                    : "Ritika Lamba"
 title_separator          : "-"
 name                     : &name "Ritika Lamba"
 description              : &description "Ritika Lamba's personal website"
-url                      : "https://rxl895.github.io"
-baseurl                  : "/Personal-Website"
+url                      : "https://ritikalamba.site"
+baseurl                  : ""
 repository               : "rxl895/Personal-Website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
