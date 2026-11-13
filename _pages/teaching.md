@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching Experience
+## Education
 
-### Case Western Reserve University
+### Chandigarh University
+**Bachelor of Engineering in Computer Science**  
+*Major in Artificial Intelligence & Machine Learning*
 
-* **Teaching Assistant**, Department of Computer & Data Sciences  
-  * CSDS: Introduction to Data Structures & Algorithms  
-  * CSDS: Machine Learning & Data Mining  
-  * CSDS: Database Systems  
