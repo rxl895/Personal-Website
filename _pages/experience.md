@@ -10,7 +10,8 @@ author_profile: true
 ## Education
 
 * **Ph.D. in Computer & Data Sciences**, Case Western Reserve University, Cleveland, OH *(Jan 2026 – Present)*
-* **M.S. in Computer & Data Sciences**, Case Western Reserve University, Cleveland, OH *(Aug 2023 – Dec 2025)*
+* **M.S. in Computer & Data Sciences**, Case Western Reserve University, Cleveland, OH *(Aug 2023 – Dec 2025)*  
+  Advisor: [Dr. Jing Ma](https://case.edu/engineering/about/faculty-and-staff-directory/jing-ma)
 * **B.E. in Computer Science** *(Major: AI & Machine Learning)*, Chandigarh University
 
 ## Research & Professional Experience
