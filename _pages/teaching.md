@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching Experience
+## TA Experience
 
 ### Case Western Reserve University
 
