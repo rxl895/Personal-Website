@@ -42,3 +42,9 @@
 .page__footer p:not(.page__footer-copyright) {
   display: none !important;
 }
+
+/* Zoom out avatar */
+.author__avatar img {
+  max-width: 130px !important;
+  padding: 12px !important;
+}
