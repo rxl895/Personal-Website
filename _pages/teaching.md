@@ -20,4 +20,14 @@ redirect_from:
 | **CSDS 345: Programming Language Concepts** | Prof. Harold Connamacher | Spring 2025 |
 | **CSDS 345: Programming Language Concepts** | Prof. Harold Connamacher | Spring 2024 |
 
+---
+
+## Teaching Experience
+
+### Case Western Reserve University
+
+| Course | Role | Term |
+|--------|------|------|
+| **CSDS XXX: Course Title** | Guest Lecturer | Spring 2026 |
+
 
